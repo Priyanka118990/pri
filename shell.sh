@@ -1,2 +1,2 @@
-echo "first argument is $1"
-echo "second argument is $2"
+echo "first argument is "$firstarg"
+echo "second argument is "$secondarg"
